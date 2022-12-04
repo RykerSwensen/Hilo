@@ -1,0 +1,15 @@
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.csproj.AssemblyReference.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.AssemblyInfoInputs.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.AssemblyInfo.cs
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.csproj.CoreCompileInputs.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\bin\Debug\net6.0\hilo.exe
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\bin\Debug\net6.0\hilo.deps.json
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\bin\Debug\net6.0\hilo.runtimeconfig.json
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\bin\Debug\net6.0\hilo.dll
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\bin\Debug\net6.0\hilo.pdb
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.dll
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\refint\hilo.dll
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.pdb
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\hilo.genruntimeconfig.cache
+C:\Users\Ryker\OneDrive\Desktop\fall-2022\hilo\obj\Debug\net6.0\ref\hilo.dll
